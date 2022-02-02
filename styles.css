@@ -1,0 +1,19 @@
+h1 {
+  color: red;
+}
+
+h1,
+h3,
+h2 {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+
+h2 {
+  background-color: red;
+  color: white;
+}
+
+.ul .li {
+  margin-bottom: 10px;
+}
